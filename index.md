@@ -4,7 +4,7 @@ title: Dahmri's Docs
 
 ### Recon
 
-Stub.
+'''x'''
 
 ### Scanning
 
