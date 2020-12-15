@@ -21,3 +21,15 @@ Stub.
 ### Web
 
 Stub.
+
+### Linux
+
+Stub.
+
+### Windows
+
+Stub.
+
+### Misc. OS
+
+Stub.
