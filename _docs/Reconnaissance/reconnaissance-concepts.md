@@ -24,5 +24,8 @@ The regional registrar WHOIS servers are:
 * whois.ripe.net (Europe, Greenland, Russia, and the Middle East)
 
 On Linux / Mac from terminal you can simply enter the following to perform a WHOIS lookup:
+```
+whois a.b.c.d
+```
 
 &nbsp;
