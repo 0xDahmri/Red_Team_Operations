@@ -4,10 +4,7 @@ category:
 order: 1
 ---
 
-\---
-
-code\_block:
-
-&nbsp; &nbsp; Test.
-
-\---
+---
+code_block:
+  Test.
+---
