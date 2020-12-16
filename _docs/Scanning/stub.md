@@ -1,6 +1,6 @@
 ---
 title: Stub
-category:
+category: IOT
 order: 1
 ---
 
