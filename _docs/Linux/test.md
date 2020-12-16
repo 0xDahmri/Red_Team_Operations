@@ -2,7 +2,7 @@
 title: Test
 category:
 order: 1
-
+---
 code_block: |
   Some content is better in monospace.
 
